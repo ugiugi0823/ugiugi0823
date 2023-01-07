@@ -1,7 +1,9 @@
 
 ### [**HyunWook jo**](https://subsequent-napkin-f74.notion.site/Make-everyone-s-life-more-fun-via-AI-d6a1722a5aee470a95b82cc84c86c998)
-<a href="https://www.instagram.com/wxxk._o/" target="_blank"><img src = "https://img.shields.io/badge/-Instagram-black?logo=Instagram&logoColor=E4405F"></a>
 
+<!--
+<a href="https://www.instagram.com/wxxk._o/" target="_blank"><img src = "https://img.shields.io/badge/-Instagram-black?logo=Instagram&logoColor=E4405F"></a>
+-->
 
 
 👉Research Scientist at  [Modulabs DCV LAB](https://modulabs.co.kr/product/lab-9156-2022-11-16-122419/)
