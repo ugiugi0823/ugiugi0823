@@ -21,7 +21,7 @@
 
 
 ## Recent implementations
-- [🔥 Denoising-Diffusion-GANs]()
+- [🔥 DACON-포디블록 구조 추출 AI 경진대회](https://github.com/ugiugi0823/DACON-4D)
 - Diffusion-Tensorflow
 - Vision Transformer Cookbook
 
