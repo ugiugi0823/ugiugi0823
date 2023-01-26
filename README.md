@@ -54,7 +54,7 @@
 
 
 
-## lecture
+## Class
 cs231n
 코세라
 
