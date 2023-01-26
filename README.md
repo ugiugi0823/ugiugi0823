@@ -16,8 +16,10 @@
 
 
 
-## Completed project
-
+## Completed Project
+- kaist nlp project1
+- kaist nlp project2
+- kaist nlp project3
 
 
 
@@ -42,7 +44,11 @@
 - ⭐ U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation `ICLR 2020`
 
 
+## papers i read
 
+## papers i will read 
+
+## lecture
 
 
 
