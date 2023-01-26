@@ -14,10 +14,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugiugi0823)](https://github.com/ugiugi0823/github-readme-stats)
 
 
-## interest
+## Interest
 -- pytorh, diffusion, gan,
 
-## Completed Project
+
+
+
+## Project
 - kaist nlp project1
 - kaist nlp project2
 - kaist nlp project3
@@ -30,12 +33,12 @@
 - Vision Transformer Cookbook
 
 
-## Recent accepted papers
+## Paper Review
 - 🔥 Generator Knows What Discriminator Should Learn in Unconditional GANs `ECCV 2022`
 - Feature Statistics Mixing Regularization for Generative Adversarial Networks `CVPR 2022`
 - Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks `ICLR 2022`
 
-## Publications
+## Research Plan
 - ⚡ Rarity Metric : A New Metric to Evaluate the Uncommonness of Synthesized Images Under review
 - Learning Input-agnostic Manipulation Directions in StyleGAN with Text Guidance Under review
 - Generator Knows What Discriminator Should Learn in Unconditional GANs `ECCV 2022`
@@ -49,8 +52,6 @@
 - Feature Statistics Mixing Regularization for Generative Adversarial Networks `CVPR 2022`[Review](www.)
 
 
-
-## papers i will read 
 
 
 ## lecture
