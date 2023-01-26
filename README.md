@@ -14,7 +14,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugiugi0823)](https://github.com/ugiugi0823/github-readme-stats)
 
 
-
+## interest
+-- pytorh, diffusion, gan,
 
 ## Completed Project
 - kaist nlp project1
@@ -44,11 +45,18 @@
 - ⭐ U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation `ICLR 2020`
 
 
-## papers i read
+## paper rivirw
+- Feature Statistics Mixing Regularization for Generative Adversarial Networks `CVPR 2022`[Review](www.)
+
+
 
 ## papers i will read 
 
+
 ## lecture
+cs231n
+코세라
+
 
 
 
