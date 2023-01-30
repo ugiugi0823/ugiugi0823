@@ -37,13 +37,33 @@
 
 
 ## Research Plan
-- ⚡ Rarity Metric : A New Metric to Evaluate the Uncommonness of Synthesized Images Under review
-- Learning Input-agnostic Manipulation Directions in StyleGAN with Text Guidance Under review
-- Generator Knows What Discriminator Should Learn in Unconditional GANs `ECCV 2022`
-- Feature Statistics Mixing Regularization for Generative Adversarial Networks `CVPR 2022`
-- Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks `ICLR 2022`
-- Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing `CVPR 2021`
-- ⭐ U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation `ICLR 2020`
+#### first work,Denoising
+diffusion model(2015 Mar)
+Denoising DPM (2020 June)
+
+#### Efficient,Scalable
+Diffusion Implicit Model (2020 Oct)
+Improved Den. DPM (2021 Feb)
+
+#### Text to Image, Beats GANs in image synth.
+DALL-E (2021 Feb)
+ADM (2021 May)
+
+#### New modality,Efficient(2)
+DPM for point cloud (2021 July)
+Variational DM (2021 July)
+
+#### Efficient(3),Text to Image(2)
+Diffusion normalizing flow (2021 Oct)
+Imagen (2021 Oct)
+
+#### Efficient,Text to video
+Video DM (2022 Apr)
+Make-A-Video (2022 Sep)
+
+#### Text to video(2)
+Imagen Video (2022 Oct)
+
 
 
 
