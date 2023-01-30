@@ -26,14 +26,20 @@
 
 ## Paper Review(GAN)
 - Network architecture
-  - A Style-Based Generator Architecture for Generative Adversarial Networks `CVPR 2019`
-  - Analyzing and Improving the Image Quality of StyleGAN `CVPR 2020`
-  - Alias-Free Generative Adversarial Networks `NeurIPS 2021`
+  - StyleGAN
+    - A Style-Based Generator Architecture for Generative Adversarial Networks `CVPR 2019` 
+    - Analyzing and Improving the Image Quality of StyleGAN `CVPR 2020` 
+    - Alias-Free Generative Adversarial Networks `NeurIPS 2021` 
+  
+  - Transformer based
+    - Improved Transformer for High-Resolution GANs `NeurIPS 2021`
+    - ViTGAN: Training GANs with Vision Transformers `ICLR 2022`
+    - StyleSwin: Transformer-Based GAN for High-Resolution Image Generation `CVPR 2022`
   
 - Training techniques
   - CONSISTENCY REGULARIZATION FOR GENERATIVE ADVERSARIAL NETWORKS `ICLR 2020`
-  - Differentiable Augmentation for Data-Efficient GAN Training `NeurIPS 2020``limited data`
-  - Training Generative Adversarial Networks with Limited Data `NeurIPS 2020``limited data`
+  - Differentiable Augmentation for Data-Efficient GAN Training `NeurIPS 2020` `limited data`
+  - Training Generative Adversarial Networks with Limited Data `NeurIPS 2020` `limited data`
   
 - Regularization
   - Which Training Methods for GANs do actually Converge? `ICML 2018`
