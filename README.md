@@ -80,7 +80,7 @@
 - Apply Generative Adversarial Networks (GANs)
 - Build Better Generative Adversarial Networks (GANs)
 - Build Basic Generative Adversarial Networks (GANs)
-- Stanford University CS231n, Spring 2017 `Done`
+- Stanford University CS231n, Spring 2017 
 
 
 
