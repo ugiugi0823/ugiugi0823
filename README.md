@@ -27,13 +27,17 @@
 ## Paper Review(GAN)
 - Network architecture
   - A Style-Based Generator Architecture for Generative Adversarial Networks `CVPR 2019`
-
+  - Analyzing and Improving the Image Quality of StyleGAN `CVPR 2020`
+  - Alias-Free Generative Adversarial Networks `NeurIPS 2021`
+  
 - Training techniques
   - CONSISTENCY REGULARIZATION FOR GENERATIVE ADVERSARIAL NETWORKS `ICLR 2020`
+  - Differentiable Augmentation for Data-Efficient GAN Training `NeurIPS 2020``limited data`
+  - Training Generative Adversarial Networks with Limited Data `NeurIPS 2020``limited data`
   
 - Regularization
-  - Which Training Methods for GANs do actually Converge? `ICLR 2018`
-
+  - Which Training Methods for GANs do actually Converge? `ICML 2018`
+  - Spectral Normalization for Generative Adversarial Networks `ICLR 2018`
 
 
 ## Research Plan(Diffusion)
