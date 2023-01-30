@@ -15,28 +15,26 @@
 
 
 ## Interest
--- pytorh, diffusion, gan,
-
-
-
-
-## Project
-- kaist nlp project1
-- kaist nlp project2
-- kaist nlp project3
+`Diffusion` `GAN` `Humanoid` `Autonomous Driving`
 
 
 
 ## Recent implementations
-- [🔥 DACON-포디블록 구조 추출 AI 경진대회](https://github.com/ugiugi0823/DACON-4D)
-- Diffusion-Tensorflow
-- Vision Transformer Cookbook
+- [⚡Mutil-label-classification](https://github.com/ugiugi0823/DACON-4D)
+
 
 
 ## Paper Review
-- 🔥 Generator Knows What Discriminator Should Learn in Unconditional GANs `ECCV 2022`
-- Feature Statistics Mixing Regularization for Generative Adversarial Networks `CVPR 2022`
-- Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks `ICLR 2022`
+#### Regularization
+- A Style-Based Generator Architecture for Generative Adversarial Networks `CVPR 2019`
+
+#### Training techniques
+- Which Training Methods for GANs do actually Converge? `ICLR 2018`
+
+#### Network architecture
+- CONSISTENCY REGULARIZATION FOR GENERATIVE ADVERSARIAL NETWORKS `ICLR 2020`
+
+
 
 ## Research Plan
 - ⚡ Rarity Metric : A New Metric to Evaluate the Uncommonness of Synthesized Images Under review
@@ -48,15 +46,15 @@
 - ⭐ U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation `ICLR 2020`
 
 
-## paper rivirw
-- Feature Statistics Mixing Regularization for Generative Adversarial Networks `CVPR 2022`[Review](www.)
 
 
 
 
 ## Class
-cs231n
-코세라
+- Apply Generative Adversarial Networks (GANs)
+- Build Better Generative Adversarial Networks (GANs)
+- Build Basic Generative Adversarial Networks (GANs)
+- cs231n `Done`
 
 ## book list
  비숍책
