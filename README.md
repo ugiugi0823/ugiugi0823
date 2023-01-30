@@ -24,7 +24,7 @@
 
 
 
-## Paper Review
+## Paper Review(GAN)
 - Network architecture
   - A Style-Based Generator Architecture for Generative Adversarial Networks `CVPR 2019`
 
@@ -36,7 +36,7 @@
 
 
 
-## Research Plan
+## Research Plan(Diffusion)
 - first work,Denoising
   - diffusion model(2015 Mar)
   - Denoising DPM (2020 June)
