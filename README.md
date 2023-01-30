@@ -25,14 +25,14 @@
 
 
 ## Paper Review
-- Regularization
+- Network architecture
   - A Style-Based Generator Architecture for Generative Adversarial Networks `CVPR 2019`
 
 - Training techniques
-  - Which Training Methods for GANs do actually Converge? `ICLR 2018`
-
-- Network architecture
   - CONSISTENCY REGULARIZATION FOR GENERATIVE ADVERSARIAL NETWORKS `ICLR 2020`
+  
+- Regularization
+  - Which Training Methods for GANs do actually Converge? `ICLR 2018`
 
 
 
