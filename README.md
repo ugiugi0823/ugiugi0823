@@ -25,48 +25,44 @@
 
 
 ## Paper Review
-#### Regularization
-- A Style-Based Generator Architecture for Generative Adversarial Networks `CVPR 2019`
+- Regularization
+  - A Style-Based Generator Architecture for Generative Adversarial Networks `CVPR 2019`
 
-#### Training techniques
-- Which Training Methods for GANs do actually Converge? `ICLR 2018`
+- Training techniques
+  - Which Training Methods for GANs do actually Converge? `ICLR 2018`
 
-#### Network architecture
-- CONSISTENCY REGULARIZATION FOR GENERATIVE ADVERSARIAL NETWORKS `ICLR 2020`
+- Network architecture
+  - CONSISTENCY REGULARIZATION FOR GENERATIVE ADVERSARIAL NETWORKS `ICLR 2020`
 
 
 
 ## Research Plan
-#### first work,Denoising
-diffusion model(2015 Mar)
-Denoising DPM (2020 June)
+- first work,Denoising
+  - diffusion model(2015 Mar)
+  - Denoising DPM (2020 June)
 
-#### Efficient,Scalable
-Diffusion Implicit Model (2020 Oct)
-Improved Den. DPM (2021 Feb)
+- Efficient,Scalable
+  - Diffusion Implicit Model (2020 Oct)
+  - Improved Den. DPM (2021 Feb)
 
-#### Text to Image, Beats GANs in image synth.
-DALL-E (2021 Feb)
-ADM (2021 May)
+- Text to Image, Beats GANs in image synth.
+  - DALL-E (2021 Feb)
+  - ADM (2021 May)
 
-#### New modality,Efficient(2)
-DPM for point cloud (2021 July)
-Variational DM (2021 July)
+- New modality,Efficient(2)
+  - DPM for point cloud (2021 July)
+  - Variational DM (2021 July)
 
-#### Efficient(3),Text to Image(2)
-Diffusion normalizing flow (2021 Oct)
-Imagen (2021 Oct)
+- Efficient(3),Text to Image(2)
+  - Diffusion normalizing flow (2021 Oct)
+  - Imagen (2021 Oct)
 
-#### Efficient,Text to video
-Video DM (2022 Apr)
-Make-A-Video (2022 Sep)
+- Efficient,Text to video
+  - Video DM (2022 Apr)
+  - Make-A-Video (2022 Sep)
 
-#### Text to video(2)
-Imagen Video (2022 Oct)
-
-
-
-
+- Text to video(2)
+  - Imagen Video (2022 Oct)
 
 
 
