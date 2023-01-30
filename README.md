@@ -54,10 +54,15 @@
 - Apply Generative Adversarial Networks (GANs)
 - Build Better Generative Adversarial Networks (GANs)
 - Build Basic Generative Adversarial Networks (GANs)
-- cs231n `Done`
+- Stanford University CS231n, Spring 2017 `Done`
 
-## book list
- 비숍책
+
+
+
+
+## Book List
+- PATTERN RECOGNITION AND MACHINE LEARNING `Christopher M. Bishop`
+- DEEP LEARNING `Ian Goodfellow`
 
 
 
