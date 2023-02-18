@@ -15,13 +15,18 @@
 
 
 ## Interest
-`Diffusion` `GAN` `Humanoid` `Autonomous Driving`
+`Diffusion` `GAN` `3D, Video Super Resolution` `3D Reconstruction`
+`Humanoid` `Autonomous Driving`
 
 
 
 ## Recent implementations
 - [⚡Mutil-label-classification](https://github.com/ugiugi0823/DACON-4D)
-
+- [⚡Video-mutil-label-classification](https://github.com/ugiugi0823/DACON-4D)
+- [⚡Unet](https://github.com/ugiugi0823/DACON-4D)
+- [⚡Nerf](https://github.com/ugiugi0823/DACON-4D)
+- [⚡ESRGAN](https://github.com/ugiugi0823/DACON-4D)
+- [⚡DDPM](https://github.com/ugiugi0823/DACON-4D)
 
 
 ## Paper Review(GAN)
