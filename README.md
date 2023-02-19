@@ -22,7 +22,7 @@
 
 ## Recent implementations
 - [⚡Mutil-label-classification](https://github.com/ugiugi0823/DACON-4D)
-- [⚡Video-mutil-label-classification](https://github.com/ugiugi0823/DACON-4D)
+- [⚡Video-mutil-label-classification](https://github.com/ugiugi0823/DACON-Car-Crash-Analysis)
 - [⚡Unet](https://github.com/ugiugi0823/UNet)
 - [⚡Nerf](https://github.com/ugiugi0823/DACON-4D)
 - [⚡ESRGAN](https://github.com/ugiugi0823/DACON-4D)
