@@ -25,7 +25,7 @@
 - [⚡Video-mutil-label-classification](https://github.com/ugiugi0823/DACON-Car-Crash-Analysis)
 - [⚡UNet++](https://github.com/ugiugi0823/UNet-plus)
 - [⚡InstantNerf](https://github.com/ugiugi0823/InstantNeRF)
-- [⚡아직ESRGAN](https://github.com/ugiugi0823/DACON-4D)
+- [⚡ESRGAN](https://github.com/ugiugi0823/ESRGAN)
 - [⚡아직아웃라이어 ](https://github.com/ugiugi0823/DACON-4D)
 
 - [⚡Diffusion-from-scratch](https://github.com/ugiugi0823/diffusion-from-scratch)
