@@ -26,7 +26,7 @@
 - [⚡UNet++](https://github.com/ugiugi0823/UNet-plus)
 - [⚡InstantNerf](https://github.com/ugiugi0823/InstantNeRF)
 - [⚡ESRGAN](https://github.com/ugiugi0823/ESRGAN)
-- [⚡Diffusion- Unconditional-Conditional-CFG-EMA](https://github.com/ugiugi0823/Diffusion-Models-pytorch)
+- [⚡Diffusion-Unconditional-Conditional-CFG-EMA](https://github.com/ugiugi0823/Diffusion-Models-pytorch)
 
 - [⚡Diffusion-from-scratch](https://github.com/ugiugi0823/diffusion-from-scratch)
 
