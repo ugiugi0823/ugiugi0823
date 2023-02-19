@@ -26,7 +26,7 @@
 - [⚡Unet](https://github.com/ugiugi0823/DACON-4D)
 - [⚡Nerf](https://github.com/ugiugi0823/DACON-4D)
 - [⚡ESRGAN](https://github.com/ugiugi0823/DACON-4D)
-- [⚡DDPM](https://github.com/ugiugi0823/DACON-4D)
+- [⚡Diffusion-from-scratch](https://github.com/ugiugi0823/diffusion-from-scratch)
 
 
 ## Paper Review(GAN)
