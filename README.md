@@ -22,6 +22,7 @@
 
 ## Recent implementations
 - [⚡Object_Detection_YOLO](https://github.com/ugiugi0823/Object_Detection_YOLO)
+- [⚡DCGAN](https://github.com/ugiugi0823/DCGAN) 
 - [⚡Mutil-label-classification](https://github.com/ugiugi0823/DACON-4D)
 - [⚡Video-mutil-label-classification](https://github.com/ugiugi0823/DACON-Car-Crash-Analysis)
 - [⚡UNet++](https://github.com/ugiugi0823/UNet-plus)
