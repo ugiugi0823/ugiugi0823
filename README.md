@@ -21,6 +21,7 @@
 
 
 ## Recent implementations
+- [⚡Score_Based_Generative_Modeling](https://github.com/ugiugi0823/Score_Based_Generative_Modeling)
 - [⚡VAE](https://github.com/ugiugi0823/VAE)
 - [⚡Object_Detection_YOLO](https://github.com/ugiugi0823/Object_Detection_YOLO)
 - [⚡DCGAN](https://github.com/ugiugi0823/DCGAN) 
