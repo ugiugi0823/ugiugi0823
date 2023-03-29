@@ -21,6 +21,7 @@
 
 
 ## Recent implementations
+- [⚡Diffusion-Unconditional-Conditional-CFG-EMA](https://github.com/ugiugi0823/Diffusion-Models-pytorch)
 - [⚡Score_Based_Generative_Modeling](https://github.com/ugiugi0823/Score_Based_Generative_Modeling)
 - [⚡VAE](https://github.com/ugiugi0823/VAE)
 - [⚡Object_Detection_YOLO](https://github.com/ugiugi0823/Object_Detection_YOLO)
@@ -30,7 +31,6 @@
 - [⚡UNet++](https://github.com/ugiugi0823/UNet-plus)
 - [⚡InstantNerf](https://github.com/ugiugi0823/InstantNeRF)
 - [⚡ESRGAN](https://github.com/ugiugi0823/ESRGAN)
-- [⚡Diffusion-Unconditional-Conditional-CFG-EMA](https://github.com/ugiugi0823/Diffusion-Models-pytorch)
 
 - [⚡Diffusion-from-scratch](https://github.com/ugiugi0823/diffusion-from-scratch)
 
