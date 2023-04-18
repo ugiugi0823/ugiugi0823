@@ -11,8 +11,10 @@
 
 👉Research Scientist at  [Modulabs DCV LAB](https://modulabs.notion.site/Deep-Computer-Vision-LAB-66bfa3524b2547b5af7aeece277584a7)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugiugi0823)](https://github.com/ugiugi0823/github-readme-stats)
 
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugiugi0823)](https://github.com/ugiugi0823/github-readme-stats)
+-->
 
 ## Interest
 `Diffusion` `GAN` `3D, Video Super Resolution` `3D Reconstruction`
