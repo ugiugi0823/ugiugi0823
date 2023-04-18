@@ -3,10 +3,8 @@
 ## 위에거 github io 로 바꿀 예정
 
 
-<center>
-  <img src="![IMG_7893 2](https://user-images.githubusercontent.com/106899647/232657699-ead0baf5-fccf-4fb9-98fb-34487cfba47b.jpg)
-" width="300" height="300">
-</center>
+<center><img src="![IMG_7893 2](https://user-images.githubusercontent.com/106899647/232658157-1e775b74-45cf-49f7-9cd6-415950c7f745.jpg)
+" width="300" height="300"></center>
 
 
 <!--
