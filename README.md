@@ -1,7 +1,11 @@
+# Hello I'm HyunWook Jo!
+### [**My History**](https://subsequent-napkin-f74.notion.site/Make-everyone-s-life-more-fun-via-AI-d6a1722a5aee470a95b82cc84c86c998)
 
-### [**HyunWook jo**](https://subsequent-napkin-f74.notion.site/Make-everyone-s-life-more-fun-via-AI-d6a1722a5aee470a95b82cc84c86c998)
 
 
+<center>
+  <img src="https://user-images.githubusercontent.com/106899647/232654451-4bf4f2e8-ee8a-4467-b1d3-8a13e28d4eba.JPG" width="300" height="300">
+</center>
 
 
 <!--
