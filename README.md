@@ -33,7 +33,8 @@
 
 ## Recent implementations
 - [🔥 Useful_code](https://github.com/ugiugi0823/useful_code)
-
+- [🔥 latent-diffusion](https://github.com/ugiugi0823/latent-diffusion)
+- [🔥 2024_Data_Science_Projects](https://github.com/ugiugi0823/2024_Data_Science_Projects)
 - [🔥 LoRA](https://github.com/ugiugi0823/LoRA)
 - [🔥 Diffusion-Models-pytorch-my](https://github.com/ugiugi0823/Diffusion-Models-pytorch-my)
 
