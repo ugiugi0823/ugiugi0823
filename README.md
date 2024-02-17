@@ -47,7 +47,6 @@
 - [⚡UNet++](https://github.com/ugiugi0823/UNet-plus)
 - [⚡InstantNerf](https://github.com/ugiugi0823/InstantNeRF)
 - [⚡ESRGAN](https://github.com/ugiugi0823/ESRGAN)
-
 - [⚡Diffusion-from-scratch](https://github.com/ugiugi0823/diffusion-from-scratch)
 
 
