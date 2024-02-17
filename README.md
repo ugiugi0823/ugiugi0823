@@ -24,6 +24,9 @@ https://github.com/ugiugi0823/useful_code
 
 
 ## Recent implementations
+- [🔥 LoRA](https://github.com/ugiugi0823/LoRA)
+- [🔥 Diffusion-Models-pytorch-my](https://github.com/ugiugi0823/Diffusion-Models-pytorch-my)
+
 - [⚡Diffusion-Unconditional-Conditional-CFG-EMA](https://github.com/ugiugi0823/Diffusion-Models-pytorch)
 - [⚡Score_Based_Generative_Modeling](https://github.com/ugiugi0823/Score_Based_Generative_Modeling)
 - [⚡VAE](https://github.com/ugiugi0823/VAE)
