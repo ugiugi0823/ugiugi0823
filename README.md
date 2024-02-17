@@ -12,7 +12,7 @@
 
 
 
-https://github.com/ugiugi0823/useful_code
+
 <!--
 <a href="https://www.instagram.com/wxxk._o/" target="_blank"><img src = "https://img.shields.io/badge/-Instagram-black?logo=Instagram&logoColor=E4405F"></a>
 -->
@@ -32,6 +32,8 @@ https://github.com/ugiugi0823/useful_code
 
 
 ## Recent implementations
+- [🔥 Useful_code](https://github.com/ugiugi0823/useful_code)
+
 - [🔥 LoRA](https://github.com/ugiugi0823/LoRA)
 - [🔥 Diffusion-Models-pytorch-my](https://github.com/ugiugi0823/Diffusion-Models-pytorch-my)
 
