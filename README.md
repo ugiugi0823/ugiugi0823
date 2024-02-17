@@ -1,6 +1,5 @@
 # Hello I'm HyunWook Jo!
 ### [**My History**](https://subsequent-napkin-f74.notion.site/Make-everyone-s-life-more-fun-via-AI-d6a1722a5aee470a95b82cc84c86c998)
-## 위에거 github io 로 바꿀 예정
 
 
 <center><img src="https://user-images.githubusercontent.com/106899647/232658157-1e775b74-45cf-49f7-9cd6-415950c7f745.jpg" width="300" height="250"></center>
