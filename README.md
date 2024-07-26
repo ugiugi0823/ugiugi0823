@@ -113,8 +113,9 @@ Master Degree of Electrical and Computer Engineering ```(03/2022 ~ 02/2024)``` (
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ugiugi0823&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
     
-<!-- My snake -->
+<!-- My snake 
 <img src="https://github.com/JYKai/JYKai/blob/output/github-snake.svg" width="100%">
+-->
 
 <br><br>
 <!-- Hit counter -->
