@@ -11,108 +11,13 @@
 <div align="center">  
 <br>
 <!-- My CV/resume -->
-<details>
+
 <summary>About Me</summary>
 <br><br>
-<span>
-  <a href="https://jykio.github.io">
-    <img src="https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
-  </a>
-</span>
-
-<span>
-  <a href="https://jykio.github.io">
-    <img src="[https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/>
-  </a>
-</span>
+[LinkedIn](https://www.linkedin.com/in/wxxk)
+[GitHub.io](https://ugiugi0823.github.io/)
 
 
-<span>
-  <a href="mailto:noahyun1222@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
-  </a>
-</span>
-<br><br>
-
-## OBJECTIVE
-Reseach on deep learning & machine lerning for artificial intelligence
-
-## RESEARCH FIELD
-Video Object Segmentation, Semantic/Instance Segmentation, Object Detection/Tracking, Attention, Multi-modal Learning
-
-## INTERESTS
-3D Vision, Robotics, MLOps
-
-## EDUCATION & WORK EXPERIENCE
-AIFFEL, Artificial Intelligence Innovation School: Research Course, Incheon/South Korea ```(06/2021 ~ 12/2021)```  
-Sungkyunkwan University, Seoul/AI & Media Lab ```(03/2022 ~ 02/2024)```   
-
-## EDUCATION
-Bachelor Degree of Environmental Engineering ```(03/2013 ~ 08/2019)``` (Kongju National University, Cheonan)   
-Master Degree of Electrical and Computer Engineering ```(03/2022 ~ 02/2024)``` (Inha University, Incheon)   
-
-## PUBLICATIONS
-**[KIM, Jiyun; KIM, JooHo; HONG, Sungeun. "G-TRACE: Grouped temporal recalibration for video object segmentation."](https://www.sciencedirect.com/science/article/pii/S0262885624001549?casa_token=FVOZszNqy_sAAAAA:D3pirI8hf-b7B3Ga6D86Nrf1ECe0YBekRR6qnJVyyYVrARr-OGXN7u0u5e5dtGj5cIdwBqOGjQ)** <br>
-```Image and Vision Computing, 2024, 105050``` - International paper
-
-**[김지윤, 홍성은, "외부 메모리 어텐션 기반 준지도 비디오 객체 분할"](https://ksbe-jbe.org/xml/38078/38078.pdf)** <br>
-```방송공학회논문지, 28(5):613-622, 2023``` - Domestic paper
-
-**김지윤, 홍성은, "준지도 비디오 객체 분할에서의 어텐션 기반 마스크 예측 경향성 분석"** <br>
-```Institute of Electronics and Information Engineers``` - Conference poster
-
-**김지윤, 홍성은, "재사용 관문 함수 기반 준지도 비디오 객체 분할 모델의 경향성 분석"** <br>
-```35th Workshop on Image Processing and Image Understanding``` - Conference poster
-
-## SKILLS
-<span>
-    <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
-</span>
-
-<span>
-    <img src="https://img.shields.io/badge/ c-A8B9CC?style=plastic&logo=C&logoColor=white"/>
-</span>
-
-<span>
-    <img src="https://img.shields.io/badge/ C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white"/>
-</span>
-
-<span>
-    <img src="https://img.shields.io/badge/ Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/>
-</span>
-
-<span>
-    <img src="https://img.shields.io/badge/ pytorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"/>
-</span>
-
-<span>
-    <img src="https://img.shields.io/badge/ tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white"/>
-</span>
-
-<span>
-    <img src="https://img.shields.io/badge/ opencv-5C3EE8?style=plastic&logo=OpenCV&logoColor=white"/>
-</span>
-
-<span>
-    <img src="https://img.shields.io/badge/ scikitlearn-F7931E?style=plastic&logo=scikit-learng&logoColor=white"/>
-</span>
-
-<span>
-    <img src="https://img.shields.io/badge/ docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
-</span>
-
-<span>
-    <img src="https://img.shields.io/badge/ numpy-013243?style=plastic&logo=Numpy&logoColor=white"/>
-</span>
-
-<span>
-    <img src="https://img.shields.io/badge/ pandas-150458?style=plastic&logo=Pandas&logoColor=white"/>
-</span>
-
-</div>
-</div>
-
-</details>
 <br><br>
 <div align="center">
 <!-- My profile -->
