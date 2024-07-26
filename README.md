@@ -12,11 +12,14 @@
 <br>
 <!-- My CV/resume -->
 
-<summary>About Me</summary>
-<br><br>
-[LinkedIn](https://www.linkedin.com/in/wxxk)
-[GitHub.io](https://ugiugi0823.github.io/)
 
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/wxxk)
+<br>
+
+[GitHub.io](https://ugiugi0823.github.io/)
+<br>
 
 <br><br>
 <div align="center">
