@@ -19,6 +19,14 @@
     <img src="https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
   </a>
 </span>
+
+<span>
+  <a href="https://jykio.github.io">
+    <img src="[https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/>
+  </a>
+</span>
+
+
 <span>
   <a href="mailto:noahyun1222@gmail.com">
     <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
