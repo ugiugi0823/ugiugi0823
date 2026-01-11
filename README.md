@@ -124,56 +124,6 @@
 
 <br>
 
-<!-- Tech Stack with Modern Grid -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;기술 스택
-</h2>
-
-<br>
-
-<div align="center">
-
-<!-- Languages -->
-<h3>💻 프로그래밍 언어</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,bash&theme=dark" alt="Languages" />
-</p>
-
-<!-- ML/DL Frameworks -->
-<h3>🧠 ML/DL 프레임워크</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="ML Frameworks" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-</p>
-
-<!-- Cloud & DevOps -->
-<h3>☁️ 클라우드 & DevOps</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git&theme=dark" alt="DevOps" />
-</p>
-
-<!-- Tools -->
-<h3>🛠️ 도구 & IDE</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,vim&theme=dark" alt="Tools" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="W&B"/>
-</p>
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br>
-
 <!-- GitHub Stats with Modern Design -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp;GitHub 통계
