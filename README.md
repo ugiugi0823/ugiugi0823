@@ -45,85 +45,6 @@
 
 </div>
 
-<!-- About Section with Modern Card Design -->
-<br>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;소개
-</h2>
-
-<br>
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🧑‍🔬 저는 누구인가요?
-
-</div>
-
-```yaml
-이름: 조현욱
-역할: 연구원 (Research Scientist)
-소속: 모두의연구소 DCV LAB
-위치: 대한민국 🇰🇷
-학력: 컴퓨터공학 석사
-
-열정: |
-  복잡한 문제를 우아한 
-  AI 솔루션으로 변환합니다
-
-현재_상태: 
-  - 🔭 AI 프론티어 탐험 중
-  - 🌱 AI로 미래를 만들어 가는 중
-  - 💡 뉴럴 네트워크로 혁신 중
-```
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🎯 연구 분야
-
-</div>
-
-```yaml
-컴퓨터_비전:
-  - 이미지 처리 및 분석
-  - 객체 탐지 및 인식
-  - 시맨틱 세그멘테이션
-
-딥러닝:
-  - 뉴럴 아키텍처 설계
-  - 모델 최적화
-  - 전이 학습
-
-3D_재구성:
-  - 포인트 클라우드 처리
-  - 다시점 기하학
-  - 3D 모델링
-
-생성형_AI:
-  - 디퓨전 모델
-  - GAN & VAE
-  - 텍스트-이미지 생성
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br>
-
 <!-- GitHub Stats with Modern Design -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp;GitHub 통계
@@ -156,25 +77,6 @@
 
 <br>
 
-<!-- Trophies Section -->
-<h2 align="center">
-  🏆 GitHub 트로피
-</h2>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ugiugi0823&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophies"/>
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br>
-
 <!-- Snake Animation -->
 <div align="center">
   <picture>
@@ -189,20 +91,6 @@
 <!-- Quote Section -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%" alt="Random Dev Quote"/>
-</div>
-
-<br>
-
-<!-- Profile Views & Connect -->
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=ugiugi0823&style=for-the-badge&color=667EEA&label=프로필+조회수" alt="Profile Views"/>
-  <br><br>
-  
-  <h3>💌 함께 연결해요!</h3>
-  <p>
-    <em>협업, 연구 논의, 또는 AI에 대한 이야기를 나누고 싶으시다면 언제든 연락주세요!</em>
-  </p>
 </div>
 
 <br>
