@@ -1,225 +1,263 @@
 <div align="center">
-  
-<!-- Dynamic Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hyunwook%20Jo&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=28&desc=🔬%20Research%20Scientist%20%7C%20Deep%20Learning%20%7C%20AI%20Innovator&descAlignY=68&descSize=24" width="100%"/>
 
-<!-- Typing Animation -->
+<!-- Animated Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,50:764ba2,100:f093fb&height=150&section=header&text=&fontSize=0" width="100%"/>
+
+<!-- Profile Avatar with Glow Effect -->
+<div style="margin-top: -75px;">
+  <img src="https://avatars.githubusercontent.com/ugiugi0823" width="150" height="150" style="border-radius: 50%; border: 4px solid #667eea; box-shadow: 0 0 30px rgba(102, 126, 234, 0.5);" alt="Profile"/>
+</div>
+
+<!-- Name with Gradient -->
+<br>
+
+# ✨ Hyunwook Jo ✨
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=38&duration=1800&pause=2500&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Building+AI+for+a+Better+Tomorrow+%F0%9F%9A%80;Deep+Learning+Research+Scientist+%F0%9F%94%AC;Exploring+the+Future+of+AI+%E2%9C%A8;Innovating+with+Neural+Networks+%F0%9F%92%BB;Transforming+Ideas+into+Reality+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%94%AC+Research+Scientist+%7C+Deep+Learning+%7C+AI;%F0%9F%9A%80+Building+the+Future+with+Neural+Networks" alt="Typing SVG" />
 </a>
+
+<br><br>
+
+<!-- Stylized Social Links -->
+<p>
+  <a href="https://www.linkedin.com/in/wxxk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://ugiugi0823.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=667EEA" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://bit.ly/jhw_resume" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-764BA2?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=764BA2" alt="Resume"/>
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-F093FB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F093FB" alt="Email"/>
+  </a>
+</p>
 
 <br>
 
-<!-- Social Links -->
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+<!-- About Section with Modern Card Design -->
+<br>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
+</h2>
+
+<br>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" valign="top">
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/wxxk" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://ugiugi0823.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://bit.ly/jhw_resume" target="_blank">
-    <img src="https://img.shields.io/badge/-Resume-4ECDC4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+### 🧑‍🔬 Who Am I?
+
+</div>
+
+```yaml
+name: Hyunwook Jo
+role: Research Scientist
+organization: Modulabs DCV LAB
+location: South Korea 🇰🇷
+education: M.S. in Computer Science
+
+passion: |
+  Transforming complex problems 
+  into elegant AI solutions
+
+current_status: 
+  - 🔭 Exploring AI frontiers
+  - 🌱 Building the future with AI
+  - 💡 Innovating with Neural Networks
+```
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🎯 Research Focus
+
+</div>
+
+```yaml
+Computer_Vision:
+  - Image Processing & Analysis
+  - Object Detection & Recognition
+  - Semantic Segmentation
+
+Deep_Learning:
+  - Neural Architecture Design
+  - Model Optimization
+  - Transfer Learning
+
+3D_Reconstruction:
+  - Point Cloud Processing
+  - Multi-view Geometry
+  - 3D Modeling
+
+Generative_AI:
+  - Diffusion Models
+  - GANs & VAEs
+  - Text-to-Image
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+<!-- Tech Stack with Modern Grid -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;Tech Stack
+</h2>
+
+<br>
+
+<div align="center">
+
+<!-- Languages -->
+<h3>💻 Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,bash&theme=dark" alt="Languages" />
+</p>
+
+<!-- ML/DL Frameworks -->
+<h3>🧠 ML/DL Frameworks</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="ML Frameworks" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+</p>
+
+<!-- Cloud & DevOps -->
+<h3>☁️ Cloud & DevOps</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git&theme=dark" alt="DevOps" />
+</p>
+
+<!-- Tools -->
+<h3>🛠️ Tools & IDEs</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,vim&theme=dark" alt="Tools" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="W&B"/>
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+<!-- GitHub Stats with Modern Design -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp;GitHub Analytics
+</h2>
+
+<br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ugiugi0823&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ugiugi0823&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=F093FB&currStreakLabel=764BA2&sideLabels=667EEA" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugiugi0823&hide=jupyter%20notebook&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=c9d1d9&count_private=true&exclude_repo=Face-Transfer-Application&langs_count=8" width="50%" alt="Top Languages"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ugiugi0823&bg_color=0D1117&color=667EEA&line=764BA2&point=F093FB&area=true&area_color=667EEA&hide_border=true&radius=12&custom_title=📈%20Contribution%20Graph" width="95%" alt="Activity Graph"/>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+<!-- Trophies Section -->
+<h2 align="center">
+  🏆 GitHub Trophies
+</h2>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ugiugi0823&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophies"/>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <br>
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-</div>
-
-<br>
-
----
-
-<div align="left">
-
-## 💫 About Me
-
-<img align="right" width="420" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" alt="Coding Animation" />
-
-```python
-class ResearchScientist:
-    """
-    🔬 Deep Learning Research Scientist
-    Passionate about AI innovation and cutting-edge research
-    
-    Transforming complex problems into elegant AI solutions
-    """
-    
-    def __init__(self):
-        self.name = "Hyunwook Jo"
-        self.role = "Research Scientist"
-        self.organization = "Modulabs DCV LAB"
-        self.location = "South Korea 🇰🇷"
-        self.education = "M.S. in Computer Science"
-        self.status = "🔭 Exploring AI frontiers"
-        self.passion = "Building the future with AI"
-        
-    @property
-    def research_interests(self):
-        return {
-            "🧠 Computer Vision": [
-                "Image processing & analysis",
-                "Object detection & recognition",
-                "Semantic segmentation"
-            ],
-            "🤖 Deep Learning": [
-                "Neural network architecture",
-                "Model optimization & training",
-                "Transfer learning"
-            ],
-            "📐 3D Reconstruction": [
-                "3D modeling & visualization",
-                "Point cloud processing",
-                "Multi-view geometry"
-            ],
-            "🎨 Generative AI": [
-                "GANs & Variational Autoencoders",
-                "Diffusion models",
-                "Text-to-image generation"
-            ],
-            "🔬 Neural Networks": [
-                "Architecture design",
-                "Hyperparameter tuning",
-                "Model interpretability"
-            ]
-        }
-    
-    def current_focus(self):
-        return "Building innovative AI solutions for real-world problems"
-    
-    def skills(self):
-        return {
-            "Languages": ["Python", "C++", "JavaScript", "SQL", "Bash"],
-            "ML/DL Frameworks": [
-                "PyTorch", "TensorFlow", "Keras", 
-                "Scikit-learn", "OpenCV", "NumPy"
-            ],
-            "Tools & Cloud": [
-                "Docker", "Kubernetes", "Git", 
-                "Linux", "AWS", "GCP", "CI/CD"
-            ]
-        }
-    
-    def achievements(self):
-        return [
-            "Published research papers in top-tier conferences",
-            "Open source contributor",
-            "Mentor & educator"
-        ]
-    
-    def __str__(self):
-        return f"{self.name} - {self.role} at {self.organization}"
-    
-    def __repr__(self):
-        return self.__str__()
-```
-
-</div>
-
-<br clear="both">
-
----
-
-<div align="center">
-
-## 🛠️ Tech Stack
-
-### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🛠️ IDEs & Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Statistics
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ugiugi0823&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true&hide_rank=false" width="100%" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ugiugi0823&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugiugi0823&hide=jupyter%20notebook&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&count_private=true&exclude_repo=Face-Transfer-Application&langs_count=8" width="55%" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
 </div>
 
 <br>
 
+<!-- Quote Section -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ugiugi0823&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF&area=true&area_color=00D9FF&hide_border=true&radius=12&custom_title=GitHub%20Contribution%20Graph" width="100%" />
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=ugiugi0823&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C" width="100%" />
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%" alt="Random Dev Quote"/>
 </div>
 
 <br>
 
+<!-- Profile Views & Connect -->
 <div align="center">
-
-## 💭 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%" />
-
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=ugiugi0823&style=for-the-badge&color=667EEA&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <br><br>
+  
+  <h3>💌 Let's Connect!</h3>
+  <p>
+    <em>Feel free to reach out for collaborations, research discussions, or just a chat about AI!</em>
+  </p>
 </div>
 
 <br>
 
+<!-- Footer -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ugiugi0823&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=footer&text=Thanks+for+visiting!+%F0%9F%98%8A%20Let's+connect!&fontSize=50&fontColor=fff&animation=twinkling" width="100%"/>
-</div>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%"/>
 </div>
