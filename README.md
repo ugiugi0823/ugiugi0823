@@ -16,13 +16,5 @@
 <a href="https://homepage-two-liard.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🏠_Homepage-4169E1?style=for-the-badge&logoColor=white" alt="Homepage"/></a>
 <a href="https://www.linkedin.com/in/wxxk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<br><br>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
 
 </div>
