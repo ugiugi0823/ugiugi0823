@@ -11,10 +11,10 @@
 <!-- Name with Gradient -->
 <br>
 
-# ✨ Hyunwook Jo ✨
+# ✨ 조현욱 ✨
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%94%AC+Research+Scientist+%7C+Deep+Learning+%7C+AI;%F0%9F%9A%80+Building+the+Future+with+Neural+Networks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%94%AC+%EC%97%B0%EA%B5%AC%EC%9B%90+%7C+%EB%94%A5%EB%9F%AC%EB%8B%9D+%7C+AI;%F0%9F%9A%80+%EB%89%B4%EB%9F%B4+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EB%A1%9C+%EB%AF%B8%EB%9E%98%EB%A5%BC+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -26,15 +26,15 @@
   </a>
   &nbsp;
   <a href="https://ugiugi0823.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=667EEA" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/포트폴리오-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=667EEA" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="https://bit.ly/jhw_resume" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-764BA2?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=764BA2" alt="Resume"/>
+    <img src="https://img.shields.io/badge/이력서-764BA2?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=764BA2" alt="Resume"/>
   </a>
   &nbsp;
   <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-F093FB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F093FB" alt="Email"/>
+    <img src="https://img.shields.io/badge/이메일-F093FB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F093FB" alt="Email"/>
   </a>
 </p>
 
@@ -49,7 +49,7 @@
 <br>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;소개
 </h2>
 
 <br>
@@ -60,25 +60,25 @@
 
 <div align="center">
 
-### 🧑‍🔬 Who Am I?
+### 🧑‍🔬 저는 누구인가요?
 
 </div>
 
 ```yaml
-name: Hyunwook Jo
-role: Research Scientist
-organization: Modulabs DCV LAB
-location: South Korea 🇰🇷
-education: M.S. in Computer Science
+이름: 조현욱
+역할: 연구원 (Research Scientist)
+소속: 모두의연구소 DCV LAB
+위치: 대한민국 🇰🇷
+학력: 컴퓨터공학 석사
 
-passion: |
-  Transforming complex problems 
-  into elegant AI solutions
+열정: |
+  복잡한 문제를 우아한 
+  AI 솔루션으로 변환합니다
 
-current_status: 
-  - 🔭 Exploring AI frontiers
-  - 🌱 Building the future with AI
-  - 💡 Innovating with Neural Networks
+현재_상태: 
+  - 🔭 AI 프론티어 탐험 중
+  - 🌱 AI로 미래를 만들어 가는 중
+  - 💡 뉴럴 네트워크로 혁신 중
 ```
 
 </td>
@@ -86,30 +86,30 @@ current_status:
 
 <div align="center">
 
-### 🎯 Research Focus
+### 🎯 연구 분야
 
 </div>
 
 ```yaml
-Computer_Vision:
-  - Image Processing & Analysis
-  - Object Detection & Recognition
-  - Semantic Segmentation
+컴퓨터_비전:
+  - 이미지 처리 및 분석
+  - 객체 탐지 및 인식
+  - 시맨틱 세그멘테이션
 
-Deep_Learning:
-  - Neural Architecture Design
-  - Model Optimization
-  - Transfer Learning
+딥러닝:
+  - 뉴럴 아키텍처 설계
+  - 모델 최적화
+  - 전이 학습
 
-3D_Reconstruction:
-  - Point Cloud Processing
-  - Multi-view Geometry
-  - 3D Modeling
+3D_재구성:
+  - 포인트 클라우드 처리
+  - 다시점 기하학
+  - 3D 모델링
 
-Generative_AI:
-  - Diffusion Models
-  - GANs & VAEs
-  - Text-to-Image
+생성형_AI:
+  - 디퓨전 모델
+  - GAN & VAE
+  - 텍스트-이미지 생성
 ```
 
 </td>
@@ -126,7 +126,7 @@ Generative_AI:
 
 <!-- Tech Stack with Modern Grid -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;Tech Stack
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;기술 스택
 </h2>
 
 <br>
@@ -134,13 +134,13 @@ Generative_AI:
 <div align="center">
 
 <!-- Languages -->
-<h3>💻 Languages</h3>
+<h3>💻 프로그래밍 언어</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,js,bash&theme=dark" alt="Languages" />
 </p>
 
 <!-- ML/DL Frameworks -->
-<h3>🧠 ML/DL Frameworks</h3>
+<h3>🧠 ML/DL 프레임워크</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="ML Frameworks" />
   <br><br>
@@ -150,13 +150,13 @@ Generative_AI:
 </p>
 
 <!-- Cloud & DevOps -->
-<h3>☁️ Cloud & DevOps</h3>
+<h3>☁️ 클라우드 & DevOps</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git&theme=dark" alt="DevOps" />
 </p>
 
 <!-- Tools -->
-<h3>🛠️ Tools & IDEs</h3>
+<h3>🛠️ 도구 & IDE</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,vim&theme=dark" alt="Tools" />
   <br><br>
@@ -176,26 +176,26 @@ Generative_AI:
 
 <!-- GitHub Stats with Modern Design -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp;GitHub Analytics
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp;GitHub 통계
 </h2>
 
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ugiugi0823&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ugiugi0823&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=F093FB&currStreakLabel=764BA2&sideLabels=667EEA" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ugiugi0823&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=c9d1d9&count_private=true&include_all_commits=true&locale=ko" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ugiugi0823&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=F093FB&currStreakLabel=764BA2&sideLabels=667EEA&locale=ko" alt="GitHub Streak"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugiugi0823&hide=jupyter%20notebook&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=c9d1d9&count_private=true&exclude_repo=Face-Transfer-Application&langs_count=8" width="50%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugiugi0823&hide=jupyter%20notebook&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=c9d1d9&count_private=true&exclude_repo=Face-Transfer-Application&langs_count=8&locale=ko" width="50%" alt="Top Languages"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ugiugi0823&bg_color=0D1117&color=667EEA&line=764BA2&point=F093FB&area=true&area_color=667EEA&hide_border=true&radius=12&custom_title=📈%20Contribution%20Graph" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ugiugi0823&bg_color=0D1117&color=667EEA&line=764BA2&point=F093FB&area=true&area_color=667EEA&hide_border=true&radius=12&custom_title=📈%20기여%20그래프" width="95%" alt="Activity Graph"/>
 </div>
 
 <br>
@@ -208,7 +208,7 @@ Generative_AI:
 
 <!-- Trophies Section -->
 <h2 align="center">
-  🏆 GitHub Trophies
+  🏆 GitHub 트로피
 </h2>
 
 <br>
@@ -246,12 +246,12 @@ Generative_AI:
 <!-- Profile Views & Connect -->
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=ugiugi0823&style=for-the-badge&color=667EEA&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ugiugi0823&style=for-the-badge&color=667EEA&label=프로필+조회수" alt="Profile Views"/>
   <br><br>
   
-  <h3>💌 Let's Connect!</h3>
+  <h3>💌 함께 연결해요!</h3>
   <p>
-    <em>Feel free to reach out for collaborations, research discussions, or just a chat about AI!</em>
+    <em>협업, 연구 논의, 또는 AI에 대한 이야기를 나누고 싶으시다면 언제든 연락주세요!</em>
   </p>
 </div>
 
